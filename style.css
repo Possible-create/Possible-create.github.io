@@ -21,7 +21,7 @@ body {
 			left: 0;
 			width: 100vw;
 			height: 20vh;
-			background: rgba(0,20,13,12);
+			background: rgba(129, 73, 31, 10);
 		}
 		#activity:after {
 			content: '';
@@ -30,7 +30,7 @@ body {
 			left: 0;
 			width: 100vw;
 			height: 20vh;
-			background: rgba(3,10,12, 10);
+			background: rgba(129, 73, 31, 10);
 		}
 
 		#result {
@@ -40,7 +40,7 @@ body {
 		.tryagain {
 		background-attachment: scroll;
 		background-clip: border-vox;
-		background-color: rgb(3, 10, 12);
+		background-color: rgb(129, 73, 31, 10);
 		background-image: none;
 		background-origin: padding-box;
 		background-size: auto;
